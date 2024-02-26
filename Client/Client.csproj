@@ -78,13 +78,7 @@
     <Compile Include="Models\Player\Player.cs" />
     <Compile Include="Models\Customs\Sound.cs" />
     <Compile Include="Models\Customs\Sprite.cs" />
-    <Compile Include="Models\Pieces\Bishop.cs" />
-    <Compile Include="Models\Pieces\King.cs" />
-    <Compile Include="Models\Pieces\Knight.cs" />
-    <Compile Include="Models\Pieces\Pawn.cs" />
     <Compile Include="Models\Pieces\Piece.cs" />
-    <Compile Include="Models\Pieces\Queen.cs" />
-    <Compile Include="Models\Pieces\Rook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
