@@ -69,8 +69,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Customs\ColorPalette.cs" />
     <Compile Include="Models\Customs\Font.cs" />
-    <Compile Include="Models\Customs\Player.cs" />
+    <Compile Include="Models\Functionality\Game.cs" />
+    <Compile Include="Models\Functionality\Moove.cs" />
+    <Compile Include="Models\Online\Connector.cs" />
+    <Compile Include="Models\Player\Password.cs" />
+    <Compile Include="Models\Player\Player.cs" />
     <Compile Include="Models\Customs\Sound.cs" />
     <Compile Include="Models\Customs\Sprite.cs" />
     <Compile Include="Models\Pieces\Bishop.cs" />
